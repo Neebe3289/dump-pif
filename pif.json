@@ -1,12 +1,12 @@
 {
-  "PRODUCT": "",
-  "DEVICE": "",
-  "MANUFACTURER": "",
-  "BRAND": "",
-  "MODEL": "",
-  "FINGERPRINT": "",
-  "SECURITY_PATCH": "",
-  "FIRST_API_LEVEL": "",
-  "BUILD_ID": "",
-  "VNDK_VERSION": ""
+  "PRODUCT": "msm8996",
+  "DEVICE": "PD1610",
+  "MANUFACTURER": "vivo",
+  "BRAND": "vivo",
+  "MODEL": "PD1610",
+  "FINGERPRINT": "vivo/PD1610/PD1610:7.1.1/NMF26F/compil03051844:user/release-keys",
+  "SECURITY_PATCH": "2018-02-01",
+  "FIRST_API_LEVEL": "23",
+  "BUILD_ID": "NMF26F",
+  "VNDK_VERSION": "23"
 }
