@@ -1,12 +1,13 @@
 {
-  "PRODUCT": "msm8996",
-  "DEVICE": "PD1610",
-  "MANUFACTURER": "vivo",
-  "BRAND": "vivo",
-  "MODEL": "PD1610",
-  "FINGERPRINT": "vivo/PD1610/PD1610:7.1.1/NMF26F/compil03051844:user/release-keys",
-  "SECURITY_PATCH": "2018-02-01",
-  "FIRST_API_LEVEL": "23",
-  "BUILD_ID": "NMF26F",
-  "VNDK_VERSION": "23"
+	"PRODUCT": "full_t758_dg_a67t_n",
+	"DEVICE": "t758_dg_a67t_n",
+	"MANUFACTURER": "DOOGEE",
+	"BRAND": "DOOGEE",
+	"MODEL": "BL12000 PRO",
+	"FINGERPRINT": "DOOGEE/full_t758_dg_a67t_n/t758_dg_a67t_n:7.1.1/N6F26Q/1517466945:user/release-keys",
+	"SECURITY_PATCH": "2018-01-05",
+	"FIRST_API_LEVEL": "24",
+	"BUILD_ID": "N6F26Q",
+	"VNDK_VERSION": "25"
 }
+
